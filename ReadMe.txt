@@ -1,0 +1,1 @@
+We train SpectralNet using a procedure that involves constrainedstochasticoptimization. Stochasticoptimizationallowsittoscaletolarge datasets, while the constraints, which are implemented using a special-purpose output layer, allow us to keep the network output orthogonal. Moreover, the map learned by SpectralNet naturally generalizes the spectral embedding to unseen data points.
