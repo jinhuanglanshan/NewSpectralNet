@@ -2,4 +2,3 @@ We train SpectralNet using a procedure that involves constrained stochastic opti
 This is important.
 Obviously.
 Nice!
-Nice!
